@@ -1,0 +1,7 @@
+.bgColor{
+    background-size: cover;
+    
+}
+mat-button-toggle:hover{
+    background-color: greenyellow;
+}
